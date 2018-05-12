@@ -1,0 +1,39 @@
+_repo: Ideen-zu-einer-Physiognomik-der-Gew-chse_22761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    - Von Humboldt, Alexander
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Botany
+gutenberg_issued: '2007-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22761'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phytogeography'
+- !lcsh 'Plant ecology'
+- !lcc 'QK'
+title: Ideen zu einer Physiognomik der Gewächse
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 22761/22761-page-images/cover.tif
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/22761
